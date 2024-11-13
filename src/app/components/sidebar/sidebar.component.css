@@ -1,0 +1,16 @@
+.main {
+  height: 100vh;
+  width: 100%;
+  background-color: #ff7f5c;
+  border-radius: 0px 30px 30px 0px;
+}
+
+.blod-icon {
+  color: white;
+  width: 64px;
+  height: 64px;
+}
+
+.main div {
+  height: 100%;
+}
